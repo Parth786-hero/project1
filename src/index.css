@@ -1,0 +1,39 @@
+.light-gradient {
+  background-color: black !important;
+  background: linear-gradient(
+    158deg,
+    #cb2d3e 0%,
+    #ef473a 100%,
+    transparent
+  ) !important;
+  color: white !important;
+}
+.dark-gradient {
+  background-color: black!important;
+  background: linear-gradient(158deg, #42275a 0%, #734b6d 100%) !important;
+  color : white!important;
+}
+.light-font{
+    font-size : 12px!important;
+    font-weight : 300!important;
+    color : rgb(224, 221, 221);
+}
+.light-font2{
+  font-size : 1rem!important;
+  font-weight : 300!important;
+  /* color : rgb(224, 221, 221); */
+}
+
+.bold-text{
+    font-weight : 900!important;
+}
+.mini-text{
+    font-size: 12px!important;
+    font-weight : lighter!important;
+    letter-spacing: 1px!important;
+}
+.table-btn{
+  width : 15%;
+  height : 3rem;
+  font-weight : lighter!important;
+}
